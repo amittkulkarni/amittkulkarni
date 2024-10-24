@@ -16,7 +16,7 @@
 
 ## ♑ About me
 
-- I'm currently a Junior at National Institute Of Technology located at Patna, India. I'm into the Python programming language and on the way to study the foundations of deep learning with this language.
+- I'm currently a Junior at National Institute Of Technology located at Patna, India and parallelly doing an online B.S. degree at IIT Madras in Data Science. I'm into the Python programming language and on the way to study the foundations of deep learning and Natural Language Processing with this language.
 
 - On the daily basis, I try to sharpen my knowledge by reading books, technical blogs, references and scientific documents. Interested in machine learning, deep learning, and all the computer science terminology, especially applications of command line interface (CLI).
 
